@@ -1,0 +1,10 @@
+package basiccommand;
+import java.util.Scanner;
+public class employ {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       
+	}
+
+}
